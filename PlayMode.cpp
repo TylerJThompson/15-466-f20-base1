@@ -194,7 +194,7 @@ void PlayMode::draw(glm::uvec2 const &drawable_size) {
 	ppu.sprites[0].x = int32_t(player_at.x);
 	ppu.sprites[0].y = int32_t(player_at.y);
 	ppu.sprites[0].index = 32;
-	ppu.sprites[0].attributes = 7;
+	ppu.sprites[0].attributes = 0b00000111;
 
 	//some other misc sprites:
 	for (uint32_t i = 1; i < 63; ++i) {
