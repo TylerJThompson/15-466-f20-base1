@@ -16,7 +16,7 @@ How To Play:
 
 The goal is to get the stars without touching the mines. Use the left and right arrow keys to move side to side and the up arrow key for a short jump. However, the most important key is the space bar, which switches gravity. Gravity can be switched while in the air.
 
-Sources: I created all sprite assets myself using Photopea (honestly not the best way to make sprites, I wouldn't suggest it). Any code I used is referenced by in-line comments. The only things I used that were more than a few (usually edited) lines from StackOverlow or the like was data_path.cpp and data_path.hpp. THese files are from the 2019 game 1 base code and were provided by Jim McCann as part of the assets reading.
+Sources: I created all sprite assets myself using Photopea (honestly not the best way to make sprites, I wouldn't suggest it). Any code I used is referenced by in-line comments. The only things I used that were more than a few (usually edited) lines from StackOverlow or the like was data_path.cpp and data_path.hpp. These files are from the 2019 game 1 base code and were provided by Jim McCann as part of the assets reading.
 
 This game was built with [NEST](NEST.md).
 
